@@ -1,2 +1,2 @@
 # DrivenData_Competition
-![Figrue_results](images/figure.png)
+![Figrue_results](/figure.png)
